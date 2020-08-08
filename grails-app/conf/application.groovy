@@ -1,4 +1,5 @@
-
+grails.plugin.springsecurity.logout.postOnly = false
+logout.afterLogoutUrl = "/"
 
 // Added by the Spring Security Core plugin:
 grails.plugin.springsecurity.userLookup.userDomainClassName = 'security.Usuario'
